@@ -2,19 +2,7 @@
 
 ## Download CheXpert
 
-1. Open the Stanford AIMI CheXpert page
-and select **Download here**. Follow the access and data-use instructions on
-the linked portal, then download the images and label tables.
-2. Obtain the demographic label release from
-Stanford AIMI CheXpert Demo Data.
-This release provides self-reported race labels needed for the White/Non-White
-grouping used here.
-3. Extract the images locally. Keep patient and study directories intact, and
-retain the identifiers needed to join image labels with demographic records.
-
-Use the official pages above as the starting point if the download portal changes.
-This repository does not include CheXpert images, demographic records, or trained
-checkpoints. Dataset access is handled by Stanford.
+Dataset access is handled by Stanford. Please register for an account and download the CheXpert demographics data [here](https://stanfordaimi.azurewebsites.net/datasets/192ada7c-4d43-466e-b8bb-b81992bb80cf). 
 
 ## Prepare the data
 
