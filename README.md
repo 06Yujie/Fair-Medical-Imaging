@@ -10,8 +10,7 @@ The preparation script creates **balanced training and validation sets** and a
 **test set that retains its natural imbalance**, with no patient overlap between
 splits.
 
-The four binary tasks are **No Finding**, **Cardiomegaly**, **Pleural Effusion**
-(`Effusion` in the code), and **Pneumothorax**. Demographic labels are grouped as:
+The four binary tasks are **No Finding**, **Cardiomegaly**, **Pleural Effusion**, and **Pneumothorax**. Demographic labels are grouped as:
 
 | Attribute | Groups |
 | --- | --- |
