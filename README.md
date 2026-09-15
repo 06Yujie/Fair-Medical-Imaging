@@ -18,8 +18,7 @@ The four binary tasks are **No Finding**, **Cardiomegaly**, **Pleural Effusion**
 | Sex | Female / Male |
 | Race/ethnicity | White / Non-White |
 
-These attributes define eight intersectional groups. The preparation script
-includes unknown race in the Non-White/other group.
+These attributes define eight intersectional groups. 
 
 Run from the repository root:
 
