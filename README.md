@@ -79,7 +79,7 @@ python -m evaluation.evaluate_four_directions \
   --image_root data/CheXpert-v1.0
 ```
 
-### FATE and DRAR
+### Metrics
 
 `evaluation/metrics.py` contains the shared metric functions and the command-line
 entry point for BACC, Macro F1, AUC, intersectional disparities, FATE, and DRAR.
